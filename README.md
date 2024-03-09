@@ -1,4 +1,4 @@
-##👋 Hello, World! I'm Arigela Lavakumar.
+## 👋 Hello, World! I'm Arigela Lavakumar.
 
 I'm a 20-year-old undergraduate student currently in my 3rd year pursuing a B.Tech degree in [Centurion University of Technology and Management}, specializing in Artificial Intelligence and Machine Learning (AIML).
 
