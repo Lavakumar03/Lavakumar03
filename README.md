@@ -12,7 +12,7 @@ I enjoy delving into the fascinating world of technology, particularly in the do
 
 ## 🚀 What I'm Up To
 
-Currently, I'm working on [To Know New things] to deepen my understanding of AI and ML concepts. I believe in the power of collaboration, so feel free to connect if you share similar interests or if you have exciting ideas to explore together.
+Currently, I'm working on Artificial Inteligence to deepen my understanding of AI and ML concepts. I believe in the power of collaboration, so feel free to connect if you share similar interests or if you have exciting ideas to explore together.
 
 ## 🌱 Learning Journey
 
