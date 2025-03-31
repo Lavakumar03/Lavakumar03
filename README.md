@@ -9,7 +9,7 @@ I'm a 20-year-old undergraduate student currently in my 3rd year pursuing a B.Te
 🚀 Working on AI to deepen understanding; open to collaboration for innovative exploration.
 
 🌱 Lifelong learner; expanding skill set in specific technologies to push AI & ML boundaries.
-## Check out my [Portfolio](https://arigela-lavakumar.netlify.app/)
+## 🌟 Check out my [Portfolio](https://arigela-lavakumar.netlify.app/) 🎯
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/A_LavaKumar_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@maheshrangala13" height="30" width="40" /></a>
